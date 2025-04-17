@@ -1,0 +1,10 @@
+.hero-title{
+    color: var(--gray);
+}
+.MainHero a{
+    background-color: var(--gold);
+}
+.MainHero a:hover{
+    border: 1px solid var(--gold);
+    color: var(--gold);
+}
