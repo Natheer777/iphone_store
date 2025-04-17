@@ -9,7 +9,7 @@ const App = () => {
       <Router>
         <main className="bg-black">
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/iphone_store" element={<Home />} />
           </Routes>
         </main>
       </Router>
